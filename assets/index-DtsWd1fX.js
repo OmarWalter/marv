@@ -19321,7 +19321,7 @@ function xx() {
             //   }),
             // }),
             E.jsx("a", {
-              href: "https://app.uniswap.org/swap?outputCurrency=0xComingSoon&chain=ethereum",
+              href: "https://app.uniswap.org/swap?outputCurrency=0xa3f483c25c8875b140290479b227793f35e179f8&chain=ethereum",
               className:
                 "md:block hidden px-10 py-2 bg-[#E6380B] text-white rounded-full border-2 border-black transition-all duration-200 hover:bg-black ",
               target: "_blank",
@@ -19399,7 +19399,7 @@ function xx() {
                     children: "Tokenomics",
                   }),
                   E.jsx("a", {
-                    href: "https://app.uniswap.org/swap?outputCurrency=0xComingSoon&chain=ethereum",
+                    href: "https://app.uniswap.org/swap?outputCurrency=0xa3f483c25c8875b140290479b227793f35e179f8&chain=ethereum",
                     target: "_blank",
                     className:
                       "mt-4 px-6 py-3 bg-[#E6380B] text-white rounded-full border-2 border-black",
@@ -19443,7 +19443,7 @@ function Ax() {
         }),
       }),
       E.jsx("a", {
-        href: "https://app.uniswap.org/swap?outputCurrency=0xComingSoon&chain=ethereum",
+        href: "https://app.uniswap.org/swap?outputCurrency=0xa3f483c25c8875b140290479b227793f35e179f8&chain=ethereum",
         target: "_blank",
         className:
           "px-10 py-3 bg-[#F8A215] shadow-[0px_4px_0px_0px_rgba(0,0,0,1)] text-white rounded-full border-2 border-black transition-all duration-200 hover:bg-black absolute left-[28vw] md:left-[5vw] bottom-[5vw]",
@@ -19616,7 +19616,7 @@ function wx() {
         variants: l,
         children: [
           E.jsx("a", {
-            href: "https://app.uniswap.org/swap?outputCurrency=0xComingSoon&chain=ethereum",
+            href: "https://app.uniswap.org/swap?outputCurrency=0xa3f483c25c8875b140290479b227793f35e179f8&chain=ethereum",
             target: "_blank",
             className:
               "px-10 py-1.5 md:py-2 lg:py-3 bg-[#F8A215] shadow-[0px_4px_0px_0px_rgba(0,0,0,1)] text-white rounded-full border-2 border-black transition-all duration-200 hover:bg-black ",
@@ -19679,7 +19679,7 @@ function wx() {
   });
 }
 function Cx() {
-  const i = "0xComingSoon",
+  const i = "0xa3f483c25c8875b140290479b227793f35e179f8",
     l = () => {
       navigator.clipboard.writeText(i), alert("Address copied!");
     };
@@ -19979,7 +19979,7 @@ function jx() {
                 viewport: { once: !0, amount: 0.7 },
                 transition: { duration: 1, ease: "easeOut" },
                 children: E.jsx("a", {
-                  href: "https://app.uniswap.org/swap?outputCurrency=0xComingSoon&chain=ethereum",
+                  href: "https://app.uniswap.org/swap?outputCurrency=0xa3f483c25c8875b140290479b227793f35e179f8&chain=ethereum",
                   target: "_blank",
                   className:
                     "block md:mx-0 mx-auto mt-5 w-fit px-10 py-3 bg-[#F8A215] shadow-[0px_4px_0px_0px_rgba(0,0,0,1)] text-white rounded-full border-2 border-black transition-all duration-200 hover:bg-black",
